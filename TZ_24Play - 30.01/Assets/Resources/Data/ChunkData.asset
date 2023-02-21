@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef0dea8102446fcbf39eb9a2fc8427d, type: 3}
+  m_Name: ChunkData
+  m_EditorClassIdentifier: 
+  NumberOfChunksPerKind: 2
+  MaxChunksNumber: 6
+  FirstTimeSpawnNumber: 5
+  SpawnBelowMainLine: 48
+  RaiseToMainLineDuration: 1.2
+  MoveSpeed: 0.09
